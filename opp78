@@ -1,13 +1,129 @@
 {
   "licenses": [
     {
-      "key": "Opps78",
+      "key": "Premium1213455",
       "device_id": "fd5baf4c-b426-4e2e-8880-49111ed727e1",
-      "expiry_date": "2027-01-06",
+      "expiry_date": "2027-1-06",
       "active": true,
       "status": "active",
       "created_date": "2024-01-01",
       "max_devices": 20
+    },
+    {
+      "key": "Nice",
+      "device_id": "aa8da265-13c5-473e-9590-995f5a783e43", 
+      "expiry_date": "2026-1-26",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-15",
+      "max_devices": 10
+    },
+    {
+      "key": "1WeekOpTr",
+      "device_id": "",
+      "expiry_date": "2026-2-25",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "Mamfs112",
+      "device_id": "26325ec7-5669-4391-99db-d4d0f7aae448",
+      "expiry_date": "2026-12-15",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+    },
+    {
+      "key": "1YearOpr",
+      "device_id": "3533d734-5898-4265-8831-d79c59f560bb",
+      "expiry_date": "2027-1-21",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+    },
+    {
+      "key": "opbr1yrs",
+      "device_id": "969c8b14-2dd8-4d8f-9759-07a2dea5303c",
+      "expiry_date": "2027-1-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+       
+     },
+     {
+      "key": "op1ya",
+      "device_id": "d06ad35d-28aa-4032-9073-b23063bcc488",
+      "expiry_date": "2027-1-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+
+     },
+     {
+      "key": "prmaccsssd",
+      "device_id": "dba6f512-56aa-40ad-8925-518be6597823",
+      "expiry_date": "2027-2-1",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+       
+     },
+     {
+      "key": "1yrshack",
+      "device_id": "9ed72741-f57f-4c83-80e1-636e1dcf80cd",
+      "expiry_date": "2027-2-4",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+
+    },
+    {
+      "key": "premuim12",
+      "device_id": "e83902e9-c2c1-4a6b-83ac-edc1d92fe86a",
+      "expiry_date": "2026-4-5",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+    },
+    {
+      "key": "Premium111",
+      "device_id": "2f86bf76-8a4b-4be9-b64b-553ab0035fbc",
+      "expiry_date": "2026-4-5",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+
+    },
+    {
+      "key": "premiumFN",
+      "device_id": "dedbd963-9882-48a8-a388-5ed189035f1c",
+      "expiry_date": "2027-2-8",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+
+    },
+    {
+      "key":
+      "TonyTonyChopper",
+      "device_id": "39c4efed-e90b-4ba2-aa08-87824c81df0c",
+      "expiry_date": "2026-5-18",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1000
+
     }
   ]
 }
